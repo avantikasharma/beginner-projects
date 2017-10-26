@@ -369,6 +369,7 @@ Use for loop to iterate all possible solutions.
 
 
 ## Solutions
+- [avantikasharma](https://github.com/avantikasharma/beginner-project)
 - [Everstalk](https://github.com/Everstalk/BP)
 - [NickSchmiek](https://github.com/NickSchimek/Python-Beginner-Projects)
 - [luangthomas](https://github.com/luongthomas/Python-Mini-Projects)
@@ -379,6 +380,7 @@ Use for loop to iterate all possible solutions.
 - [AnanyaTyagi](https://github.com/AnanyaTyagi/BeginnerProjects)
 - [aviral36](https://github.com/aviral36/BeginnerProjects)
 - [avantikasharma](https://github.com/avantikasharma/beg_project)
+
 
 ## Contributing
 Contributing to this repository in any way is encouraged.
